@@ -171,28 +171,55 @@
   "Categories": [
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
-      "Name": "Get started",
+      "Name": "Leadership 1.0",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Microsoft",
+      "Source": "Lark Group",
       "SubCategories": [
         {
           "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
-          "Name": "First days",
+          "Name": "Introduction",
           "Image": "images/categories/first_days.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "Lark Group",
           "SubCategories": []
         },
         {
           "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
-          "Name": "Recommended",
+          "Name": "Leading Yourself",
           "Image": "images/categories/recommended.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "Lark Group",
+          "SubCategories": []
+        },
+        {
+          "Id": "df4177bc-79b9-480c-a5c0-2bd564360bef",
+          "Name": "Leading in a Team",
+          "Image": "images/categories/recommended.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Lark Group",
+          "SubCategories": []
+        },
+        {
+          "Id": "5fb88ed0-ce14-48c2-8c3b-9dddde1d4c7f",
+          "Name": "Leading in the Organization",
+          "Image": "images/categories/recommended.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Lark Group",
+          "SubCategories": []
+        },
+        {
+          "Id": "f1c31106-7d0c-43d6-8fca-eb8bc0c4f191",
+          "Name": "Supplementary Resources",
+          "Image": "images/categories/recommended.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Lark Group",
           "SubCategories": []
         }
       ]
@@ -464,7 +491,7 @@
     },
     {
       "Id": "41779dd0-ae42-4a62-8b66-bd87c137f4ac",
-      "Name": "HelpDesk"
+      "Name": "Management"
     },
     {
       "Id": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -472,7 +499,7 @@
     },
     {
       "Id": "97150537-2c2f-42f9-8bc6-73e68fda0d38",
-      "Name": "Change Manager"
+      "Name": "Managers"
     },
     {
       "Id": "9fcd26c3-bcca-4452-a40a-f87e0daed348",
@@ -505,7 +532,8 @@
   ],
   "Sources": [
     "SOC",
-    "FastTrack",
+    "Lark Group",
+    "HealthTech Connex",
     "M365",
     "Microsoft",
     "LinkedIn"
