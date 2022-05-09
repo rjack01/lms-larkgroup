@@ -2,6 +2,11 @@
   "Technologies": [
     {
       "Id": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+      "Name": "Lists",
+      "Subjects": []
+    },
+    {
+      "Id": "e748ca20-3f83-4c4b-8d30-c43cd3520c80",
       "Name": "Leadership",
       "Subjects": []
     },
