@@ -1,48 +1,39 @@
 [
   {
     "Id": "959166d8-1cb7-4315-af20-541598ebecaa",
-    "Title": "Six Simple Steps - Welcome to Microsoft 365",
+    "Title": "Module 1",
     "Image": "images/playlists/six_simple_steps_-_welcome_to_office_365.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
     "SubjectId": "",
-    "Source": "Microsoft",
+    "Source": "Lark Group",
     "CatId": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
-    "Description": "Get started with Microsoft 365 in six simple steps. Sign in and get started at office.com, create and save files securely in the cloud, share files and collaborate with others in real time, work with your team in teams and channels with Microsoft teams, set up your mobile apps, and try new things.",
+    "Description": "Leadership Program Introduction.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "365-378767af-7ac3-4d68-9d0f-709b6948a76b",
-      "1fa93876-0318-4622-b473-142a3bfd6495",
-      "fb440590-1b4d-4562-94ba-61123b299e3d",
-      "be096b45-709c-473a-afb9-f7a998b3f435",
-      "4a358470-a1a3-4796-84ec-45adf4895473",
-      "c0a66323-d0ac-4c7f-8aa3-8eca9bf92817",
-      "b7f52310-54dd-4701-be3c-c0acbb8d998b"
+      "0849ef75-564f-450a-93e5-b27508d81c53",
+      "1539f168-f27c-4215-9319-a5fafd76eec6"
     ]
   },
   {
     "Id": "bb92e79e-fe45-4f82-83ab-704b75bb6223",
-    "Title": "Get started with Teams",
+    "Title": "Module 2",
     "Image": "images/playlists/manage_meetings.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
     "SubjectId": "",
-    "Source": "Microsoft",
+    "Source": "Lark Group",
     "CatId": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
-    "Description": "Get started with Teams with seven simple steps. Get an overview of teams and channels, learn how to get your team up and running, work in channels, upload and share files, start and pin chats, join a Teams meeting, and manage meetings.",
+    "Description": "Understanding DISC.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
-      "780da5c0-55b6-49cc-bc30-a4084d0bfcc0",
-      "d20b058b-bed7-47e5-8335-5f897bd1a091",
-      "abec0934-ca9d-4920-b4c6-75d4042afea8",
-      "3993d9e5-06b3-4654-9e8f-9d2de79d2f8e",
-      "7843f46f-a3ad-4dd9-9430-867e6362e590",
-      "920382b4-2cca-40f1-ac20-05afed2005bd",
-      "7237da86-9409-40e1-9b05-fc3eba33404c"
+      "20a02e3c-437e-4ab2-8441-9f902e78c675",
+      "c11c485b-496d-479b-88a3-1744a7a028d7",
+      "5c882b54-d2b1-4270-b65d-79483a2aa3ca"
     ]
   },
   {
