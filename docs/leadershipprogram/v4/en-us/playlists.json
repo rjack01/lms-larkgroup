@@ -2,7 +2,7 @@
   {
     "Id": "959166d8-1cb7-4315-af20-541598ebecaa",
     "Title": "Introduction",
-    "Image": "images/playlists/six_simple_steps_-_welcome_to_office_365.png",
+    "Image": "images/playlists/add-shape-and-connectors.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "e748ca20-3f83-4c4b-8d30-c43cd3520c80",
@@ -20,7 +20,7 @@
   {
     "Id": "bb92e79e-fe45-4f82-83ab-704b75bb6223",
     "Title": "Leading Yourself",
-    "Image": "images/playlists/manage_meetings.png",
+    "Image": "images/playlists/work_remotely.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "e748ca20-3f83-4c4b-8d30-c43cd3520c80",
@@ -55,7 +55,7 @@
   {
     "Id": "31fe13c5-ec7d-4a3c-98db-89292b0c0824",
     "Title": "Leading in a Team",
-    "Image": "images/playlists/provide_a_chat-based_workspace_with_teams.png",
+    "Image": "images/playlists/modern_workplace_trainingx.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "e748ca20-3f83-4c4b-8d30-c43cd3520c80",
@@ -78,7 +78,7 @@
   {
     "Id": "fe736497-1a7c-4397-9963-17aab7e64557",
     "Title": "Leading in the Organization",
-    "Image": "images/playlists/create_impactful_content_together.png",
+    "Image": "images/playlists/connect_your_organization_with_yammer.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "e748ca20-3f83-4c4b-8d30-c43cd3520c80",
