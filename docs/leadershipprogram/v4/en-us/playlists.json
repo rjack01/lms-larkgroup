@@ -19,7 +19,7 @@
   },
   {
     "Id": "bb92e79e-fe45-4f82-83ab-704b75bb6223",
-    "Title": "Leading Yourself",
+    "Title": "Understanding DISC",
     "Image": "images/playlists/work_remotely.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -27,7 +27,7 @@
     "SubjectId": "",
     "Source": "Lark Group",
     "CatId": "07aa7fb7-a187-4a04-a044-f881626a8cba",
-    "Description": "Understanding DISC.",
+    "Description": "",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
@@ -41,7 +41,23 @@
       "8b97437b-107f-43e5-8280-17ac317995fa",
       "8e7eadca-6501-4ac5-b616-f94c2c491629",
       "908d26b8-0c45-44c1-9a83-b8ff583aa4ef",
-      "9420d2d8-f04d-4d00-b852-2d846dbedfe9",
+      "9420d2d8-f04d-4d00-b852-2d846dbedfe9"
+    ]
+  },
+  {
+    "Id": "c70cfc36-0d19-41d8-8d48-7c3c768a80e5",
+    "Title": "Time, Emotions and Resilience",
+    "Image": "images/playlists/work_remotely.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "e748ca20-3f83-4c4b-8d30-c43cd3520c80",
+    "SubjectId": "",
+    "Source": "Lark Group",
+    "CatId": "07aa7fb7-a187-4a04-a044-f881626a8cba",
+    "Description": "",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
       "9f920424-7de6-4002-b4ed-6503a3cfae2d",
       "a02cbbff-d56f-477d-bd8b-d485408ae5eb",
       "b6826ecd-5865-4db4-a8e7-f5a33d2799b5",
