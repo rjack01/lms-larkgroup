@@ -79,16 +79,13 @@
     "Source": "Lark Group",
     "CatId": "df4177bc-79b9-480c-a5c0-2bd564360bef",
     "Description": "",
-    "StatusTagId": "",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
-      "77d55b36-b274-4fee-acbe-978ccf14c7e6",
-      "94d98315-06e7-454c-819d-d5991408bb04",
-      "afe89455-43ed-47b9-af79-a82a374ba0bd",
-      "37d98b29-08fb-4b8e-ab97-b129a0e9966d",
-      "062f6252-5feb-4b80-a197-d9dd383aa31c",
-      "0dd16bbf-febf-4de4-95d4-853772ea3809",
-      "b99bbb59-0e61-4a57-a01e-72f95ae8b815"
+      "e4ebc1c2-4781-4201-b6a6-bd3b02c25197",
+      "e69562f7-e875-485d-839b-cb66b5d98023",
+      "ebbbe5e7-a950-46b8-b63a-738a87b5a49a",
+      "20437c9e-d618-4a76-a957-9ad3e9fe6824"
     ]
   },
   {
@@ -105,13 +102,9 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "ba05d4f5-a174-4879-b1a1-0c6f77c1396b",
-      "a6541b69-3ef6-41ba-a2bb-90c7fcf41c16",
-      "93439db5-c08a-4a93-b3b9-9f3ecc63fcfc",
-      "dcffcf83-2a0e-4bdd-9212-adc28e1a3c04",
-      "b5a3ce62-bf38-45cd-aef4-328f868755fd",
-      "5a0d2fa9-1c47-4d5a-931b-a3d81f2e336f",
-      "15474865-f653-48f5-8562-45df7e3ea2d4"
+      "5b16f46a-b2f7-4c47-b753-e1aeada713bd",
+      "675d6755-5e48-4691-8e08-4ea419602187",
+      "89f17abb-a39e-4fec-bfaa-de60bc2e554a"
     ]
   },
   {
@@ -128,15 +121,7 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "ea9e13b0-d413-4b4e-894d-177d1aee0e4f",
-      "4fe9c70f-7831-4beb-982e-ac9dc75fbfe6",
-      "af839c61-f18f-4ae5-9698-325d3cf14f36",
-      "98634873-26f3-48be-9f4a-153235b6633d",
-      "03103cb6-6538-4e92-90c0-567634fb60ef",
-      "6b95a532-e655-437b-afef-27bf639f3662",
-      "1e8032c4-d72b-498c-9d8e-dc69e5adb63c",
-      "39723e1d-126a-42cc-8990-1e3c0633d18b",
-      "448d4051-3a43-4d2e-b1d8-de0aa03c069e"
+      "a76e1836-6d5b-415a-9221-974d145c01ef"
     ]
   }
 ]
